@@ -1,0 +1,9 @@
+#+title: Configurations of Jessie@CoLinux
+#+author: Fontux
+
+* Environments
+  | Host OS    | Windows XP/7                   |
+  | VM OS      | Dibian 6(Squeeze) -> 8(Jessie) |
+  | CoLinux    | v0.7.9                         |
+  | X2GoClient | v4.0.5.0 (QT:4.8.6)            |
+  | SSH Client | PuTTY/FuTTY                    |
